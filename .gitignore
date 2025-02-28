@@ -1,0 +1,2 @@
+echo ".ipynb_checkpoints/" >> .gitignore
+echo "*.nc" >> .gitignore   # If you don't want to push large NetCDF files

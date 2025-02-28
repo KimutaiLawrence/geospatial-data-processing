@@ -11,11 +11,6 @@ This project involves using Google Earth Engine. Fetching the datasets - Sentine
 - `Task  - Geospatial Data Processing.ipynb` - Main notebook with notebook
 - `requirements.txt` - Dependencies
 
-## 📥 Installation
-```bash
-git clone https://github.com/KimutaiLawrence/geospatial-data-processing.git
-cd AMINI
-pip install -r requirements.txt
 
 ## 📸 Screenshots  
 
@@ -42,3 +37,9 @@ pip install -r requirements.txt
 
 ### ✅ Task  
 ![Task](screenshots/8.png)  
+
+
+## 📥 Installation
+```bash
+git clone https://github.com/KimutaiLawrence/geospatial-data-processing.git
+cd AMINI
